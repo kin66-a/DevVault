@@ -63,11 +63,11 @@ devvault/
 
 | Phase | Focus | Status |
 |-------|-------|--------|
-| 1 | Express server, routing, EJS | 🔨 In Progress |
-| 2 | MongoDB, CRUD, Authentication | ⏳ Upcoming |
-| 3 | File uploads, Search, Dashboard | ⏳ Upcoming |
-| 4 | REST API, Security, Validation | ⏳ Upcoming |
-| 5 | Real-time features, Deployment | ⏳ Upcoming |
+| 1 | Express server, routing, EJS |  In Progress |
+| 2 | MongoDB, CRUD, Authentication |  Upcoming |
+| 3 | File uploads, Search, Dashboard |  Upcoming |
+| 4 | REST API, Security, Validation |  Upcoming |
+| 5 | Real-time features, Deployment |  Upcoming |
 
 ---
 
